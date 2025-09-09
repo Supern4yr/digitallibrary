@@ -11,5 +11,6 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [dua rembulan](ebook/duarembulan.pdf) - Luna Torashyngu (2007)
 5. [esok](ebook/esok.pdf) - Ar Dee (2018)
 6. [etika publik](ebook/etikapublik.pdf) - Haryatmoko (2011)
+7. [fake smile](ebook/fakesmile.pdf) - Alvian AJ (2014)
 
 4. *Powered by GitHUb Pages*
