@@ -9,5 +9,6 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [100 ciri orang kaya](ebook/100ciriorangkaya.pdf) - Honey Miftahuljannah (2015)
 3. [efek terima kasih](ebook/efekterimakasih.pdf) - John Kralik (2010)
 4. [dua rembulan](ebook/duarembulan.pdf) - Luna Torashyngu (2007)
+5. [esok](ebook/esok.pdf) - Ar Dee (2018)
 
 4. *Powered by GitHUb Pages*
