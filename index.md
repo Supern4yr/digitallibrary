@@ -10,5 +10,6 @@ Berikut ini adalah koleksi yang dimiliki:
 3. [efek terima kasih](ebook/efekterimakasih.pdf) - John Kralik (2010)
 4. [dua rembulan](ebook/duarembulan.pdf) - Luna Torashyngu (2007)
 5. [esok](ebook/esok.pdf) - Ar Dee (2018)
+6. [etika publik](ebook/etikapublik.pdf) - Haryatmoko (2011)
 
 4. *Powered by GitHUb Pages*
