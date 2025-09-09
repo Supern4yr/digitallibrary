@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 
 1. [dilan dia adalah dilanku tahun 1990](ebook/dilan.pdf) - Pidi Baiq (2018)
-2. [100 ciri orang kaya](ebook/100 ciri orang kaya.pdf). - Honey Miftahuljannah (2015)
+2. [100 ciri orang kaya](ebook/100ciriorangkaya.pdf). - Honey Miftahuljannah (2015)
 
 3. ---
 
