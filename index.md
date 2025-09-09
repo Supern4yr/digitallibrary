@@ -14,5 +14,6 @@ Berikut ini adalah koleksi yang dimiliki:
 7. [fake smile](ebook/fakesmile.pdf) - Alvian AJ (2014)
 8. [a simple life](ebook/asimplelife.pdf) - Desi Anwar (2014)
 9. [etika profersi insinyur](ebook/etikaprofesiinsinyur.pdf) - I Putu Jati Arsana (2016)
+10. [DNA sukses mulia](ebook/dnasuksesmulia.pdf) - Farid Poniman (2010)
 
 4. *Powered by GitHUb Pages*
