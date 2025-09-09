@@ -15,5 +15,6 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [a simple life](ebook/asimplelife.pdf) - Desi Anwar (2014)
 9. [etika profersi insinyur](ebook/etikaprofesiinsinyur.pdf) - I Putu Jati Arsana (2016)
 10. [DNA sukses mulia](ebook/dnasuksesmulia.pdf) - Farid Poniman (2010)
+11. [resume VR](ebook/resumeVR.pdf) - Fikri Putra (2025)
 
-4. *Powered by GitHUb Pages*
+ *Powered by GitHUb Pages*
